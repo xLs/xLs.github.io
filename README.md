@@ -1,6 +1,4 @@
-# xLs.github.io
-Hello World!
-
+This site was built using [GitHub Pages](https://pages.github.com/) :ghost:
 ```C++
 
 #include <iostream>
@@ -11,3 +9,7 @@ int main()
   return 0;
 }
 ```
+
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
